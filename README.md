@@ -61,6 +61,7 @@ Agente-Servicio-Bancario/
 ### 1️⃣ Clonar repositorio
 
 git clone https://github.com/JeisonRobles/Agente-Servicio-Bancario.git
+Tambien puede consultarse en Google Colaboratory : https://colab.research.google.com/drive/1hJpDvZ6FK92922PKcqnrQDVOuQvpNaKa#scrollTo=zlogiPXUv8FV
 cd Agente-Servicio-Bancario
 2️⃣ Crear entorno virtual
 python -m venv venv
